@@ -1,4 +1,4 @@
-# Bionic
+# Bionic 🦾
 MD171 Foundations of Media Design project. <br/>
 Theme: contribute to a pitch deck for a new Sci-Fi series set in the West of Ireland. <br/>
 Designed using Adobe Photoshop and Illustrator. 
