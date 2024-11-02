@@ -19,7 +19,7 @@ All contain explanations on the intention of my designs and the tools used throu
 
 ### Title Design
 <p align="center">
- <img src="designs/Milestone1.png" width="400">
+ <img src="designs/Milestone1.png" width="500">
 </p>
 
 #### Snippet of the process
@@ -58,7 +58,7 @@ All contain explanations on the intention of my designs and the tools used throu
 
 ### Collage
 <p align="center">
- <img src="designs/Mil3.jpg" width="400">
+ <img src="designs/Mil3.jpg" width="500">
 </p>
 
 #### Snippet of the process
