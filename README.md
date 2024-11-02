@@ -4,9 +4,37 @@ Theme: contribute to a pitch deck for a new Sci-Fi series set in the West of Ire
 Designed using Adobe Photoshop and Illustrator. 
 
 ### The project
-under construction... :/
+`Bionic` is a cliché sci-fi series about an entity, unknown of good or bad, in pursuit of their enemy. However in admist of the dispute, two girls encounter these beings unknown of the situation they're in. 
+
+- `Analysis.pdf`: about the title design
+- `Milestone2_Analysis.pdf`: about the four photographs portraying a story 
+- `Milestone3_Analysis.pdf`: about the collage. 
+
+All contain explanations on the intention of my designs and the tools used throughout the process. Why I've used went with these choices and how does this make an effect towards the finishing result of each part of the project. 
 
 ### Criteria
 - Come up with a name for the series and create a logo design for the series
 - Create a story in four photographs demonstrating composition and elements of design.
 - Design a collage image that pertains to your series. 
+
+### Title Design
+<p align="center">
+ <img src="designs/Milestone1.png" width="500">
+</p>
+
+### Four photographed storyboard
+<p align="center">
+ <img src="designs/Mil2.1.jpg" width="300">
+  <img src="designs/Mil2.jpg" width="300">
+</p>
+
+<p align="center">
+    <img src="designs/Mil2.2.jpg" width="300">
+  <img src="designs/Mil2.3.jpg" width="300">
+</p>
+
+### Collage
+<p align="center">
+ <img src="designs/Mil3.jpg" width="500">
+</p>
+
