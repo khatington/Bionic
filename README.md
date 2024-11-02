@@ -10,7 +10,7 @@ Designed using Adobe Photoshop and Illustrator.
 - `Milestone2_Analysis.pdf`: about the four photographs portraying a story 
 - `Milestone3_Analysis.pdf`: about the collage. 
 
-All contain explanations on the intention of my designs and the tools used throughout the process. Why I've used went with these choices and how does this make an effect towards the finishing result of each part of the project. 
+All contain explanations on the intention of my designs and the tools used throughout the process. Why I've used went with these choices and how does this make an effect towards the end result of each part of the project. 
 
 ### Criteria
 - Come up with a name for the series and create a logo design for the series
