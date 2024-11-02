@@ -33,10 +33,13 @@ All contain explanations on the intention of my designs and the tools used throu
 </p>
 
 ### Four photographed storyboard
+<p align="center">Photo Story One and Two </p>
 <p align="center">
  <img src="designs/Mil2.1.jpg" width="300">
   <img src="designs/Mil2.jpg" width="300">
 </p>
+
+<p align="center">Photo Story One and Two </p>
 <p align="center">
     <img src="designs/Mil2.2.jpg" width="300">
   <img src="designs/Mil2.3.jpg" width="300">
