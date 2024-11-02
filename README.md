@@ -19,7 +19,17 @@ All contain explanations on the intention of my designs and the tools used throu
 
 ### Title Design
 <p align="center">
- <img src="designs/Milestone1.png" width="500">
+ <img src="designs/Milestone1.png" width="400">
+</p>
+
+#### Snippet of the process
+<p float="left">
+ <p align="center">
+  <img src="Images/M1.png" width="150">
+ <img src="Images/M1.1.png" width="150"> 
+ <img src="Images/M1.2.png" width="150">
+  <img src="Images/M1.3.png" width="150">
+ </p>
 </p>
 
 ### Four photographed storyboard
@@ -27,14 +37,34 @@ All contain explanations on the intention of my designs and the tools used throu
  <img src="designs/Mil2.1.jpg" width="300">
   <img src="designs/Mil2.jpg" width="300">
 </p>
-
 <p align="center">
     <img src="designs/Mil2.2.jpg" width="300">
   <img src="designs/Mil2.3.jpg" width="300">
 </p>
 
+#### Snippet of the process
+<p float="left">
+ <p align="center">
+  <img src="Images/M2.1.png" width="150">
+ <img src="Images/M2.png" width="150"> 
+ <img src="Images/M2.3.png" width="150">
+  <img src="Images/M2.4.png" width="150">
+ </p>
+</p>
+
+
 ### Collage
 <p align="center">
- <img src="designs/Mil3.jpg" width="500">
+ <img src="designs/Mil3.jpg" width="400">
+</p>
+
+#### Snippet of the process
+<p float="left">
+ <p align="center">
+  <img src="Images/M3.png" width="150">
+ <img src="Images/M3.1.png" width="150"> 
+ <img src="Images/M3.2.png" width="150">
+  <img src="Images/M3.3.png" width="150">
+ </p>
 </p>
 
